@@ -1,0 +1,12 @@
+torch 
+torchvision 
+torchaudio
+torchsummary
+numpy
+fonttools
+tqdm
+matplotlib
+imageio
+Pillow
+
+# pip install -r requirements.txt
