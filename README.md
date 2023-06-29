@@ -47,4 +47,4 @@ python infer_interpolate_yf.py --experiment_dir experiment_dir --gpu_ids cuda:0 
 You can check the inference result under `./experiment_dir/infer/<result_folder>`
 
 ## Citation
-This is the modified verison of [zi2zi-pytorch](https://github.com/xuan-li/zi2zi-pytorch), which is used for AI4Future project at CUHK.
+This is the modified verison of [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch), which is used for AI4Future project at CUHK.
