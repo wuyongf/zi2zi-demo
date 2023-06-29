@@ -1,7 +1,7 @@
 ## How to use
 
 ```
-git clone 
+git clone https://github.com/wuyongf/zi2zi-demo
 cd zi2zi-demo/
 mkdir sample_dir binary_save_dir experiment_dir/data
 ```
