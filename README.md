@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/wuyongf/zi2zi-demo
 cd zi2zi-demo/
-mkdir sample_dir binary_save_dir experiment_dir/data
+mkdir fonts sample_dir binary_save_dir experiment_dir/data 
 ```
 
 ### Prerequisite - Prepare your own source font and target font.
